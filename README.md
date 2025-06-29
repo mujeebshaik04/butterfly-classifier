@@ -22,7 +22,6 @@ project/
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/mujeebshaik04/butterfly-classifier.git
 cd butterfly-classifier
 
@@ -79,3 +78,7 @@ S. Mabu Subani
 
 
 
+
+✅ Replace the Google Drive link (`https://drive.google.com/file/d/1UMMDZsszA46wbrMah8b4otEAbgjr-K3M/view?usp=sharing`) with your actual shareable link.
+
+Let me know if you want a downloadable version or to include screenshots too.
